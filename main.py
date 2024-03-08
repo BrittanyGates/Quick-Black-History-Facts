@@ -20,7 +20,7 @@ def main():
     :return: Display a random Black History fact to the home.html page.
     """
 
-    with open("static/files/bhfg_facts.txt", "r") as facts:
+    with open("static/files/fact_list.txt", "r") as facts:
         fact_list = facts.readlines()
     return render_template('index.html', black_history_fact=random.choice(fact_list))
 
