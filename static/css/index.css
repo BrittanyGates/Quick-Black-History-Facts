@@ -1,6 +1,56 @@
+/* GLOBAL STYLES */
 body {
-    background-color: #603808;
+    background-color: #432818;
     color: #FFF;
     font-family: 'Montserrat', sans-serif;
-  }
-  
+    font-weight: normal;
+}
+
+.intro-div {
+    margin-top: 5vh;
+}
+
+.title, .description {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+.description {
+    font-size: 1.5rem;
+}
+
+.fact-div {
+    margin-top: 3rem;    
+}
+
+.fact {
+    border: 0.5rem solid #FFF;
+    padding: 2rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 3.5rem;
+}
+
+.contact-info-col {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding-top: 0.25rem;
+    width: 100%;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.contact-info-col a {
+    color: #EACDC2;
+    text-decoration: none;
+}
+
+.contact-info-col a:hover {
+    color: #FEEA00;
+    text-decoration: none;
+}
