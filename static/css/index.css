@@ -54,3 +54,86 @@ body {
     color: #FEEA00;
     text-decoration: none;
 }
+
+/* MOBILE DEVICE STYLES */
+/* PHONES */
+@media only screen and (max-width: 600px) {
+    /* GLOBAL STYLES */
+    .intro-div {
+        margin-top: 2vh;
+    }
+    
+    .title, .description {
+        padding-bottom: 0.5rem;
+    }
+    
+    .title {
+        font-size: 2rem;
+    }
+    
+    .description {
+        font-size: 1rem;
+    }
+    
+    .fact-div {
+        margin-top: 2rem;    
+    }
+    
+    .fact {
+        border: 0.25rem solid #FFF;
+        padding: 1rem;
+        font-size: 2.25rem;
+    }
+  }
+  
+  /* TABLETS */
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* GLOBAL STYLES */
+    .intro-div {
+        margin-top: 3vh;
+    }
+    
+    .title, .description {
+        padding-bottom: 0.75rem;
+    }
+    
+    .title {
+        font-size: 2.5rem;
+    }
+    
+    .description {
+        font-size: 1.25rem;
+    }
+    
+    .fact-div {
+        margin-top: 2.5rem;    
+    }
+    
+    .fact {
+        border: 0.25rem solid #FFF;
+        padding: 1rem;
+        font-size: 2.75rem;
+    }  
+  }
+  
+  /* SMALL LAPTOPS SCREENS */
+  @media only screen and (min-width: 1023px) and (max-width: 1439px) {
+    /* GLOBAL STYLES */
+    .intro-div {
+        margin-top: 4vh;
+    }
+    
+    .title {
+        font-size: 2.75rem;
+    }
+    
+    .fact {
+        padding: 1.5rem;
+        font-size: 3rem;
+    }      
+  }
+  
+  /* MEDIUM LAPTOP SCREENS */
+  /* @media only screen and (min-width: 1440px) and (max-width: 1680px) {
+    /* GLOBAL STYLES */
+ /* } */
