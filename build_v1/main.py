@@ -20,7 +20,7 @@ app = Flask(__name__)
 @app.route("/", methods=["GET", "POST"])
 def main():
     """
-    This function opens and reads the bhfg_facts.txt file which is located in the Static (/static/) directory.
+    This function opens and reads the black_history_facts.txt file which is located in the Static (/static/) directory.
     Then a loop runs over the entire file, reading each line. The loop collects all the lines as a list, and then
     pulls out one fact randomly using the random.choice function.
 
