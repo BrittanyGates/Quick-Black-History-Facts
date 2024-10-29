@@ -1,4 +1,4 @@
-# Black History Fact Generator
+# Quick Black History Facts
 Displays a random Black History Fact every 10 seconds.
 
 ## About The Project
@@ -13,4 +13,4 @@ Displays a random Black History Fact every 10 seconds.
 
 ## Website
 
-[Black History Fact Generator](https://www.bhfgen.com/)
+[Quick Black History Facts](https://quickblackhistoryfacts.com/)
