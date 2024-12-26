@@ -1,6 +1,6 @@
 # Quick Black History Facts
 
-![A black background with the words "Quick Black History Facts" in the middle.](static/img/quick_black_history_facts_logo_gemini_generated.jpeg)
+![A black background with the words "Quick Black History Facts" in the middle.](static/img/quick_black_history_facts_gemini_generated.jpeg)
 
 Displays a random Black History Fact every 10 seconds.
 
@@ -13,7 +13,7 @@ on the website every ten seconds.
 
 ### Dependencies
 
-* A modern web browser (like Google Chrome) with JavaScript enabled.
+A modern web browser (like Google Chrome) with JavaScript enabled.
 
 ## Website
 
@@ -21,24 +21,29 @@ on the website every ten seconds.
 
 ## Help
 
-* Please file a new issue using the [Issues](https://github.com/brittbot-bgates/Quick-Black-History-Facts/issues) tab on
+Please file a new issue using the [Issues](https://github.com/brittbot-bgates/Quick-Black-History-Facts/issues) tab on
   the repo.
 
 ## Author
 
-* Brittany Gates
-    * [Website](https://brittbot.com)
-    * [Email](mailto:support@brittbot.com)
-    * [LinkedIn](https://www.linkedin.com/in/brittanycgates/)
-    * [Twitter / X](https://x.com/brittany__gates)
-    * [YouTube](https://www.youtube.com/c/BrittanyGates)
+Brittany Gates
+
+* [Website](https://brittbot.com)
+* [Email](mailto:support@brittbot.com)
+* [LinkedIn](https://www.linkedin.com/in/brittanycgates/)
+* [Twitter / X](https://x.com/brittany__gates)
+* [YouTube](https://www.youtube.com/c/BrittanyGates)
 
 ## Version History
 
-* Pre-v1.0 release
+* Latest release notes as of late December 2024.
   * Changed the domain name from bhfgen.com to quickblackhistoryfacts.com.
-  * Changed the project name in this repo, in several files, including those for the Google Cloud deployment.
-  * Completed the redesign of the website, and uploaded it to Google Cloud for deployment.
+  * Changed the project name in this repo and in specific files.
+  * Completed the redesign of the website.
+  * Updated the social media links in the index.html footer.
+  * Fixed typos.
+  * Removed unnecessary files from the repo.
+  * Updated the README
 
 ## License
 
@@ -46,4 +51,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-* [Dominique Pizzie](https://gist.github.com/DomPizzie) for the simple README template.
+[Dominique Pizzie](https://gist.github.com/DomPizzie) for the simple README template.
+
+Black History fact sources:
+* http://www.history.com/topics/black-history/black-history-facts
+* http://www.history.com/topics/black-history/black-history-milestones
+* http://www.history.com/topics/black-history/booker-t-washington
+* http://www.history.com/topics/black-history/george-washington-carver
+* https://en.wikipedia.org/wiki/W._E._B._Du_Bois
