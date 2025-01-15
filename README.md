@@ -22,7 +22,7 @@ A modern web browser (like Google Chrome) with JavaScript enabled.
 ## Help
 
 Please file a new issue using the [Issues](https://github.com/brittbot-bgates/Quick-Black-History-Facts/issues) tab on
-  the repo.
+the repo.
 
 ## Author
 
@@ -36,14 +36,16 @@ Brittany Gates
 
 ## Version History
 
-* Latest release notes as of late December 2024.
-  * Changed the domain name from bhfgen.com to quickblackhistoryfacts.com.
-  * Changed the project name in this repo and in specific files.
-  * Completed the redesign of the website.
-  * Updated the social media links in the index.html footer.
-  * Fixed typos.
-  * Removed unnecessary files from the repo.
-  * Updated the README
+* Latest release notes as of January 2025:
+    * Updated the footer on all pages to display all my social media links.
+* Latest release notes as of late December 2024:
+    * Changed the domain name from bhfgen.com to quickblackhistoryfacts.com.
+    * Changed the project name in this repo and in specific files.
+    * Completed the redesign of the website.
+    * Updated the social media links in the index.html footer.
+    * Fixed typos.
+    * Removed unnecessary files from the repo.
+    * Updated the README
 
 ## License
 
@@ -54,6 +56,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 [Dominique Pizzie](https://gist.github.com/DomPizzie) for the simple README template.
 
 Black History fact sources:
+
 * http://www.history.com/topics/black-history/black-history-facts
 * http://www.history.com/topics/black-history/black-history-milestones
 * http://www.history.com/topics/black-history/booker-t-washington
