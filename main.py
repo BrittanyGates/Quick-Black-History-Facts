@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Quick Black History Facts
-Creator: Brittany Gates (https://github.com/brittbot-bgates) | (https://www.linkedin.com/in/brittanycgates) | (https://brittbot.com/)
+Creator: Brittany Gates (https://github.com/BrittanyGates) | (https://www.linkedin.com/in/brittanycgates) |
+(https://brittbot.com/)
 About: This web app displays a random Black History Fact every 10 seconds.
 """
 
