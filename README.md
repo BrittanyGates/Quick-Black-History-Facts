@@ -9,7 +9,7 @@ Displays a random Black History Fact every 10 seconds.
 This web applications uses the Bootstrap on the Front-End and Python/Flask on the Back-End to display the random facts
 on the website every ten seconds.
 
-## Dependencies
+## Program Dependencies
 
 A modern web browser (like Google Chrome) with JavaScript enabled.
 
@@ -17,20 +17,9 @@ A modern web browser (like Google Chrome) with JavaScript enabled.
 
 [quickblackhistoryfacts.com](https://quickblackhistoryfacts.com/)
 
-## Help
+## Found A Bug? Need Help?
 
-Please file a new issue using the [Issues](https://github.com/brittbot-bgates/Quick-Black-History-Facts/issues) tab on
-the repo.
-
-## Creator
-
-Brittany Gates
-
-* [Website](https://brittbot.com)
-* [Email](mailto:support@brittbot.com)
-* [LinkedIn](https://www.linkedin.com/in/brittanycgates/)
-* [Twitter / X](https://x.com/brittany__gates)
-* [YouTube](https://www.youtube.com/c/BrittanyGates)
+Please file a new issue using the [Issues](https://github.com/brittbot-bgates/Quick-Black-History-Facts/issues) tab on the repo.
 
 ## Version History
 
@@ -45,7 +34,7 @@ Brittany Gates
     * Updated the social media links in the index.html footer.
     * Fixed typos.
     * Removed unnecessary files from the repo.
-    * Updated the README
+    * Updated the README.
 
 ## License
 
