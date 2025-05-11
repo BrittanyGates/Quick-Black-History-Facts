@@ -1,6 +1,6 @@
 # Quick Black History Facts
 
-![A black background with the words "Quick Black History Facts" in the middle.](static/img/quick_black_history_facts_gemini_generated.jpeg)
+![A black background with the words "Quick Black History Facts" in the middle.](static/images/quick_black_history_facts_gemini_generated.jpeg)
 
 Displays a random Black History Fact every 10 seconds.
 
