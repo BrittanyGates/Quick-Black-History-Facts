@@ -19,22 +19,27 @@ A modern web browser (like Google Chrome) with JavaScript enabled.
 
 ## Found A Bug? Need Help?
 
-Please file a new issue using the [Issues](https://github.com/brittbot-bgates/Quick-Black-History-Facts/issues) tab on the repo.
+Please file a new issue using the Issues tab on the repo.
 
 ## Version History
 
+* Latest release notes as of May 2025:
+    - Added JavaScript code to provide a smoother refresh when displaying the random fact.
+    - Replaced some CSS rules with various Bootstrap ultilities.
+    - Created a base template.
+    - Refactored the main function in the main.py file into three separate functions so the new JS code can work properly.
 * Latest release notes as of February 2025:
-    * Updated the README.
+    - Updated the README.
 * Latest release notes as of January 2025:
-    * Updated the footer on all pages to display all my social media links.
+    - Updated the footer on all pages to display all my social media links.
 * Latest release notes as of late December 2024:
-    * Changed the domain name from bhfgen.com to quickblackhistoryfacts.com.
-    * Changed the project name in this repo and in specific files.
-    * Completed the redesign of the website.
-    * Updated the social media links in the index.html footer.
-    * Fixed typos.
-    * Removed unnecessary files from the repo.
-    * Updated the README.
+    - Changed the domain name from bhfgen.com to quickblackhistoryfacts.com.
+    - Changed the project name in this repo and in specific files.
+    - Completed the redesign of the website.
+    - Updated the social media links in the index.html footer.
+    - Fixed typos.
+    - Removed unnecessary files from the repo.
+    - Updated the README.
 
 ## License
 
