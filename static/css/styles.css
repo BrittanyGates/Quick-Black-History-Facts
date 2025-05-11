@@ -1,0 +1,74 @@
+/* GLOBAL STYLES */
+body {
+  background-color: #2E294E;
+  color: #FFF;
+  font-family: "Montserrat", sans-serif;
+}
+
+.fact-div {
+  height: 50vh;
+}
+
+.fact {
+  font-family: "Playfair Display", serif;
+  font-size: 3.5rem;
+  border: 0.4rem solid #FFF;
+}
+
+.contact-info-col {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding-top: 0.25rem;
+  width: 100%;
+  font-size: 1rem;
+  text-align: center;
+  background-color: #2E294E;
+  color: #FFF;
+}
+
+.contact-info-col a {
+  color: #FFD400;
+  text-decoration: none;
+}
+
+.contact-info-col a:hover {
+  color: #BBCBCB;
+  text-decoration: none;
+}
+
+/* MOBILE DEVICE STYLES */
+
+/* SMALL PHONES */
+/* GLOBAL STYLES */
+@media screen and (max-width: 480px) {
+  .title {
+    font-size: 1.6rem;
+  }
+
+  .fact {
+    border: 0.125rem solid #FFF;
+    font-size: 1.25rem;
+  }
+
+  .contact-info-col {
+    font-size: 1rem;
+  }
+}
+
+/* TABLETS */
+/* GLOBAL STYLES */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .title {
+    font-size: 1.875rem;
+  }
+
+  .fact {
+    border: 0.25rem solid #FFF;
+    font-size: 1.75rem;
+  }
+
+  .contact-info-col {
+    font-size: 1rem;
+  }
+}
