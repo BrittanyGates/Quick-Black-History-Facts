@@ -82,7 +82,8 @@ screen and (height: 375px) and (orientation: landscape) {
   }
 }
 
-@media screen and (width: 425px) {
+@media screen and (width: 425px),
+screen and (min-width: 426px) and (max-width: 600px) {
   .title {
     font-size: 1.6rem !important;
   }
