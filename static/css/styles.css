@@ -102,7 +102,8 @@ screen and (min-width: 426px) and (max-width: 600px) {
   }
 }
 
-@media screen and (height: 425px) and (orientation: landscape) {
+@media screen and (height: 425px) and (orientation: landscape),
+screen and (min-height: 426px) and (max-height: 600px) {
   .title {
     margin-top: 1.5rem !important;
     font-size: 1.6rem !important;
